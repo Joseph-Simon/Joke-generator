@@ -1,0 +1,20 @@
+body {
+  background-image: url("http://pngimg.com/uploads/chuck_norris/chuck_norris_PNG31.png");      
+  height: 100%;    
+  background-position: absolute;
+  background-repeat: no-repeat;
+  background-size: 450px;
+  background-color: lightgray;
+}
+
+h2 {
+  color: #bb0a1e;
+}
+
+li {
+  font-size: 2rem;  
+}
+
+ul {
+  color: #bb0a1e;
+}
