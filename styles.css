@@ -18,3 +18,9 @@ li {
 ul {
   color: #bb0a1e;
 }
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-size: 50px;
+  }
+}
